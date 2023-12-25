@@ -12,6 +12,30 @@ Welcome to my GitHub world, where coding meets creativity. Here's a quick rundow
 
 ## 💞 Open for Collaboration
 - Excited about collaborative efforts and eager to contribute to Open Source Projects.
+ 
+# Languages & Tools 🛠️
+- **Python:** Crafting versatile solutions.
+- **Java:** Building robust applications.
+- **JavaScript:** Adding interactivity to the web.
+- **C & C++:** Delving into low-level programming.
+- **HTML/CSS:** Crafting elegant and responsive web pages.
+
+## 🛢️ Databases
+- **MySQL:** Structuring and managing data.
+
+## 📚 Libraries
+- **NumPy:** Powerful numerical computing in Python.
+- **Pandas:** Data manipulation and analysis.
+- **OpenCV:** Computer vision at your fingertips.
+
+## 🌐 Frameworks
+- **Flask & Django:** Web frameworks for Python.
+- **Keras, TensorFlow, PyTorch:** Deep learning for AI.
+- **Bootstrap:** Front-end framework for sleek designs.
+
+## 🔧 Tools & Technologies
+- **Git:** Version control for collaborative coding.
+- **AWS:** Cloud computing for scalable solutions.
 
 ## 📫 Connect with Me
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/yesitsyash)

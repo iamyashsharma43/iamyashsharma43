@@ -30,10 +30,10 @@
 
 
 
-#### Things I love:
+
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Java ✍️
-- FrontEnd Development
+- Full Stack Development
 - DSA
 
 

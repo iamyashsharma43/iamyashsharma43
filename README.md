@@ -2,11 +2,11 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Yash Sanjay Sharma 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Yash Sharma 👋
-[![Linkedin Badge](https://img.shields.io/badge/-yesitsyash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yesitsyash/)](https://www.linkedin.com/in/yesitsyash/)
+[![Linkedin Badge](https://img.shields.io/badge/-yesitsyash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yesitsyash/)](https://www.linkedin.com/in/yesitsyashh/)
 [![Gmail Badge](https://img.shields.io/badge/-yesitsyash43@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yesitsyash43@gmail.com)](mailto:yesitsyash43@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://iamyashsharma43.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://iamyashsharma431.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 

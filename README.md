@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-yesitsyash43@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yesitsyash43@gmail.com)](mailto:yesitsyash43@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://iamyashsharma431.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://yashportfolio-chi.vercel.app/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 

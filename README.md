@@ -2,6 +2,7 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Yash Sanjay Sharma 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Yash Sharma 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Yash-Sharma%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 [![Gmail Badge](https://img.shields.io/badge/-yesitsyash43@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yesitsyash43@gmail.com)](mailto:yesitsyash43@gmail.com) 
 

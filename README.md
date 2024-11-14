@@ -72,3 +72,6 @@
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/yesitsyash
+
+![snake gif](https://github.com/iamyashsharma43/iamyashsharma43/blob/output/github-snake.svg)
+
